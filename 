@@ -1,0 +1,23 @@
+[33mcommit 9b70caa3da8e89f864c4609418901f1cba3932fa[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Cédric Mounkala-Samba <kouetosine@gmail.com>
+Date:   Mon Mar 7 18:48:32 2022 +0200
+
+    Ajout des fichiers calcul.php et  footer.html dans la version 0.01
+
+[33mcommit 3cdce4032af8a22083b3d7990b51efcd6c107706[m
+Author: Cédric Mounkala-Samba <kouetosine@gmail.com>
+Date:   Mon Mar 7 18:38:41 2022 +0200
+
+    Add html/header.html file
+
+[33mcommit 4a055514c9bfaa41ca9f847e0b0c7cd6fd4533ab[m
+Author: Cédric Mounkala-Samba <kouetosine@gmail.com>
+Date:   Mon Mar 7 18:27:37 2022 +0200
+
+    Change styles.css file
+
+[33mcommit 48b91058a847cdd37bd833ce4353304e8391ea0e[m
+Author: Cédric Mounkala-Samba <kouetosine@gmail.com>
+Date:   Mon Mar 7 18:24:53 2022 +0200
+
+    Change index.php file
